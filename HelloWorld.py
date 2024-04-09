@@ -1,1 +1,1 @@
-print("MIAO");
+print("MIAOMAIO");
